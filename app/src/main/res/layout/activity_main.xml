@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"  android:layout_height="8dp">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="TextView" />
+</LinearLayout>  ... orientation ="vertical" ... />
+
+<Button
+andriod:id="@+id/btnAdd"
+andriod:text="Add to playlist"/>
+
+<Button
+amdriod:id="@+id/btnList"
+andriod:text="View Packing List"/>
+
+<Button
+adriod:id="@+id/btnExit"
+andriod:text="Exit App"/>
+>/Linear Layout>
+
+
+

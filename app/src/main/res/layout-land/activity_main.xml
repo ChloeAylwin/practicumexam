@@ -1,0 +1,17 @@
+<LinearLayout  ... orientation ="vertical" ... />
+
+<Button
+andriod:id="@+id/btnAdd"
+andriod:text="Add to playlist"/>
+
+<Button
+amdriod:id="@+id/btnList"
+andriod::text="View Packing List"/>
+
+<Button
+adriod:id="@+id/btnExit"
+andriod:text="Exit App"/>
+>/Linear Layout>
+
+
+

@@ -1,0 +1,23 @@
+<ScrollView... xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingClass" />
+<LinearLayout...orientation ="vertical">
+ <TextView
+ andriod:id="@+id/playlistText"
+ andriod:layout_margin="8dp"
+ andriod:text='Playlist List' />
+
+<Button
+andriod:id="@+id/btnAll songs"
+andriod:text="Show All Songs"/>
+
+<Button
+andriod:id="@+id/btnBack"
+andriod:text="Back to Main"/>
+</Linear layout>
+</ScrollView>
+
+
+
+
+
+
